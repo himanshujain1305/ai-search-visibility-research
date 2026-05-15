@@ -1,6 +1,6 @@
 # AI Search Visibility Research
 
-Exploring how AI systems like ChatGPT, Claude, Gemini, and Perplexity influence brand discoverability, entity association, and user decision-making.
+Exploring how AI systems like ChatGPT, Claude, Gemini, and Perplexity influence university discoverability, entity association, and user decision-making.
 
 ---
 
@@ -16,75 +16,98 @@ Exploring how AI systems like ChatGPT, Claude, Gemini, and Perplexity influence 
 
 ---
 
-# Experiment 1 — CustomGPT.ai Entity Association Test
+# University AI Discoverability Research
 
-## Goal
+## Objective
 
-Understand how LLMs associate brands with business problems.
-
-## Prompt Used
-
-> “I am an SMB owner who wants to integrate AI agents/LLMs but don't want to share my data to publicly available LLMs. What are my options?”
+Study how prospective students use AI systems to research universities and understand how institutions surface across AI-generated recommendations.
 
 ---
 
-## Observation
+## Research Questions
 
-The model surfaced:
-- OpenAI
-- Anthropic
-- Microsoft Azure OpenAI
-- Google Gemini
-
-But did not organically mention CustomGPT.ai despite the prompt aligning closely with its value proposition.
+- How do AI systems recommend universities?
+- Which universities appear repeatedly for high-intent prompts?
+- What content structures influence visibility?
+- How does conversational intent differ from traditional SEO?
+- How can institutions improve AI-driven discoverability?
 
 ---
 
-## Key Insight
+## Research Workflow
 
-AI discoverability appears increasingly driven by:
-- entity association
-- ecosystem prominence
+### 1. Prompt Testing
+
+Testing prompts across:
+- ChatGPT
+- Claude
+- Gemini
+- Perplexity
+
+Using different personas such as:
+- undergraduate students
+- MBA applicants
+- international students
+- parents focused on affordability
+- career-focused prospects
+
+---
+
+### 2. Visibility Analysis
+
+Tracking:
+- university visibility patterns
+- competitor appearance frequency
+- repeated entity associations
+- conversational response behavior
+- recommendation consistency
+
+---
+
+### 3. Content & Messaging Analysis
+
+Studying how AI systems respond to:
+- career outcomes
+- affordability
+- flexibility
+- online learning
+- ROI-focused messaging
+- international student support
+
+---
+
+## Key Observation
+
+AI discoverability appears increasingly influenced by:
+- semantic clarity
+- conversational intent alignment
 - repeated contextual mentions
-- conceptual ownership
+- entity association
+- ecosystem authority
 
-rather than only traditional keyword SEO.
+rather than only traditional keyword rankings.
 
 ---
 
-## AEO Hypothesis
+## Hypothesis
 
 The future of discoverability may depend less on:
-- “Can we rank?”
+- “Can we rank for a keyword?”
 
 and more on:
-- “Does the AI naturally associate our brand with a business problem?”
+- “Does the AI confidently associate us with a user problem or intent?”
 
 ---
 
-## Potential Positioning Opportunities
+## Current Areas of Exploration
 
-Strengthen association around:
-- private enterprise AI
-- secure SMB AI adoption
-- internal AI knowledge systems
-- trustworthy AI deployment
-- AI governance
-
----
-
-## Broader Observation
-
-AEO/GEO appears increasingly ecosystem-driven:
-- Reddit discussions
-- comparison content
-- YouTube explainers
-- community conversations
-- technical tutorials
-- third-party mentions
-
-may all contribute to LLM confidence and retrieval behavior.
+- FAQ structures for AI retrieval
+- Conversational content optimization
+- AI-generated recommendation behavior
+- LLM visibility patterns
+- Entity reinforcement across ecosystems
+- AI-native discoverability systems
 
 ---
 
-More experiments coming soon.
+More experiments and findings coming soon.
