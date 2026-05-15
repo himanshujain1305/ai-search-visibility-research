@@ -110,4 +110,6 @@ and more on:
 
 ---
 
-More experiments and findings coming soon.
+## Notes
+
+This repository is an evolving research workspace documenting ongoing experiments around AI-native discoverability and conversational search behavior.
